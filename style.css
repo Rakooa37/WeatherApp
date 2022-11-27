@@ -121,6 +121,7 @@ img{
     }
 
     .column4{
+        padding-top: 1rem;
         order:1;
         margin-bottom: auto;
     }
